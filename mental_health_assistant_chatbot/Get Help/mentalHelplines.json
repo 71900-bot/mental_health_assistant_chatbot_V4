@@ -1,0 +1,131 @@
+{
+  "helplines": [
+    {
+      "name": "Befrienders Kuala Lumpur",
+      "phone": "+603-7956 8145",
+	  "website": "https://www.befrienders.org.my/",
+	  "latitude": 3.09544,
+	  "longitude": 101.64358
+    },
+    {
+      "name": "Lifeline Association of Malaysia",
+      "phone": "+603-4265 7995",
+	  "website": "http://lifeline.org.my/cn/",
+	  "latitude": 3.17733,
+	  "longitude": 101.73682
+    },
+	{
+	 "name": "Malaysian Mental Health Association (MMHA)",
+     "phone": "+603-2780 6803",
+	 "website": "https://mmha.org.my/",
+	 "latitude": 3.09054,
+	 "longitude": 101.64121
+	},
+	{
+     "name": "National Population and Family Development Board (LPPKN)",
+     "phone": "+603-2698 8177",
+	 "website": "http://www.lppkn.gov.my/lppkngateway/frontend/web/",
+	 "latitude": 5.95160,
+	 "longitude": 116.05300
+	},
+	{
+      "name": "Thrive Well",
+      "phone": "+6018-900 7247",
+	  "website": "https://www.thethrive.center/",
+	  "latitude": 3.13675,
+	  "longitude": 101.60873
+    },
+    {
+      "name": "Mental Illness Awareness & Support Association (MIASA)",
+      "phone": "+603-7732 2414",
+	  "website": "http://miasa.org.my/",
+	  "latitude": 3.09946,
+	  "longitude": 101.64856
+    },
+    {
+      "name": "Mintygreen Psychological & Counselling Services",
+      "phone": "+603–8408 1978",
+	  "website": "https://www.mgpsychology.com.my/",
+	  "latitude": 3.05793,
+	  "longitude": 101.46076
+    },
+    {
+      "name": "Enrich Counselling & Therapy Centre (ECTC)",
+      "phone": "+603-8061 8061",
+	  "website": "http://www.jm-enrich.my/",
+	  "latitude": 3.02628,
+	  "longitude": 101.61720
+    },	
+    {
+      "name": "InPsych Psychological and Counselling Services",
+      "phone": "+6017-331 1216",
+	  "website": "http://www.inpsych.com.my/",
+	  "latitude": 3.08338,
+	  "longitude": 101.66951
+    },	
+    {
+      "name": "Serene Psychological Services",
+      "phone": "+6018-777 2242",
+	  "website": "https://serene.com.my/",
+	  "latitude": 3.17071,
+	  "longitude": 101.66589
+    },	
+    {
+      "name": "MY Psychology",
+      "phone": "+6011-3344 5270",
+	  "website": "https://www.mypsychology.my/",
+	  "latitude": 3.21280,
+	  "longitude": 101.64300
+    },	
+    {
+      "name": "Growing Space Psychology Center",
+      "phone": "+6019-433 0921",
+	  "website": "https://growingspace.org/",
+	  "latitude": 3.05248,
+	  "longitude": 101.67195
+    },
+    {
+      "name": "MPS Psychological Services",
+      "phone": "+6011-3676 2478",
+	  "website": "http://www.mpspsy.com.my/",
+	  "latitude": 3.07029,
+	  "longitude": 101.69438
+    },	
+    {
+      "name": "People Psychological Solutions",
+      "phone": "+6017-899 2207",
+	  "website": "https://people.my/",
+	  "latitude": 3.16581,
+	  "longitude": 101.65272
+    },	
+    {
+      "name": "Psycle Psychological Services",
+      "phone": "+6018–779 8677",
+	  "website": "https://www.psycle.com.my/",
+	  "latitude": 3.06928,
+	  "longitude": 101.69070
+    },		
+    {
+      "name": "Ding Psychology Centre",
+      "phone": "+603-7727 6628",
+	  "website": "http://www.dingpsychology.com/",
+	  "latitude": 3.13802,
+	  "longitude": 101.62237
+    },		
+    {
+      "name": "The Federation of Sarawak Life Care Society",
+      "phone": "+6082-234 680",
+	  "website": "http://lifecaresociety.net/",
+	  "latitude": 1.53422,
+	  "longitude": 110.33830
+    },
+    {
+      "name": "Mental Health Association of Sarawak",
+      "phone": "+6082-231 459",
+	  "website": "https://mhasarawak.com/",
+	  "latitude": 1.53350,
+	  "longitude": 110.33748
+    }
+	
+  ]
+}
